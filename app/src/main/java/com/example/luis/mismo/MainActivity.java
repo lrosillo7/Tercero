@@ -11,5 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    int cero=2;
+    int cero=24;
 }
